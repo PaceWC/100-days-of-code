@@ -30,6 +30,6 @@ I also started JavaScript on FreeCodeCamp, only completed 10 lessons as I am sho
 
 **Today's Progress**: Finished up SoloLearn's CSS fundamentals course along with CodeCademey's HTML course.
 
-**Thoughts:** Kinda dropped the ball on keeping this going with EOY and tax projects going on at work, but I am back and with vengence! Since getting back into this challenge since the first of the year I have completed the SoloLearn JavaScript, HTML, and CSS courses along with the Codecademy HTML course. My current plan is to finish up CSS, JavaScript (Asynchronous, ReactJS I-II, and JQuery), finish the SoloLearn JQuery and PHP course. At some point I will begin on developing a Website to begin my post college portfolio, and will share that journey here. So stay tuned and we'll see what this turns into. Happy new year, now go get after it!
+**Thoughts:** I kind of dropped the ball on keeping this going with EOY and tax projects going on at work, but I am back! Since getting back into this challenge at the beginning of the year I have completed the SoloLearn JavaScript, HTML, and CSS courses along with the Codecademy HTML course. My current plan is to finish the CSS, JavaScript (Asynchronous, ReactJS I-II, and jQuery) on Codecademy, and finish the SoloLearn jQuery and PHP course. At some point I will begin developing a Website to start my post college portfolio and will share that journey here. So, stay tuned and we'll see what this turns into. Happy new year, now go get after it!
 
 **Link to work:**
