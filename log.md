@@ -1,3 +1,4 @@
+# 100 Days Of Code - Log
 ### Day 1: January 11, 2019
 
 **Today's Progress**: Finished up SoloLearn's CSS fundamentals course along with CodeCademey's HTML course.
@@ -5,8 +6,12 @@
 **Thoughts:** I kind of dropped the ball on keeping this going with EOY and tax projects going on at work, but I am back! Since getting back into this challenge at the beginning of the year I have completed the SoloLearn JavaScript, HTML, and CSS courses along with the Codecademy HTML course. My current plan is to finish the CSS, JavaScript (Asynchronous, ReactJS I-II, and jQuery) on Codecademy, and finish the SoloLearn jQuery and PHP course. At some point I will begin developing a Website to start my post college portfolio and will share that journey here. So, stay tuned and we'll see what this turns into. Happy new year, now go get after it!
 
 **Link to work:**
-# 100 Days Of Code - Log
 
+
+## OLD WORK, STARTING NEW ABOVE
+# 100 Days Of Code - Log
+*
+*
 ### Day 0: November 27, 2018
 
 **Today's Progress**: Setting up this GitHub log.
@@ -15,9 +20,8 @@
 
 **Link to work:**
 ![](Pictures/Day0.0.png)
-
-
-**OLD**
+*
+*
 ### Day 1: November 28, 2018
 
 **Today's Progress**: Started back on Codecademy programming course list. Completed another 5% of the Python 2 course, looking to complete it by this weekend.
