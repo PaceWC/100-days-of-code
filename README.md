@@ -2,6 +2,8 @@
 
 <a href="https://github.com/PaceWC/100-days-of-code/blob/master/log.md">MyProgress</a>
 
+<a href="https://www.linkedin.com/in/cody-pace-541596bb/">Follow me on LinkedIn!!</a>
+
 ## Contents
 
 * [Rules](rules.md)
