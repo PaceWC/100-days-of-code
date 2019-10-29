@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+<a href="https://github.com/PaceWC/100-days-of-code/blob/master/log.md">MyProgress</a>
+
 ## Contents
 
 * [Rules](rules.md)
