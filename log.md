@@ -17,3 +17,12 @@ Overall today I did not really learn anything new, but rather reveiwed the basic
 **Thoughts:** Feeling good, glad to be back doing some coding. Even if it's something as minor as this. Thinking up a few side projects to work on while working to finish this up as well as the design projects for the certs.
 
 **Link to work:**
+<hr>
+
+### Day 2: October 31, 2019
+
+**Today's Progress:** Day 3, another 22 challenges down. That leaves me with 48 challenges to go! So by next week I should be looking to start the Design Projects.
+
+**Thoughts:** Yes there is a two day gap. Currently bowling aftert work on wednsdays so I get home late. Going to have to start coding on my lunch break I suppose. But not letting up. Still feeling good working through these.
+
+**Link to work:**
